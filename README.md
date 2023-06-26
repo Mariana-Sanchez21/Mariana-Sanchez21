@@ -9,3 +9,4 @@ I'm a Front-end developer with background in environmental engineering. Started 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a potterhead 🔮.I own 2 cats 🐈Kiwi & 🐈Lulo. I love sci-fi🎥 and mystery🎞️, but hate horror 👻.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mariana-Sanchez21=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
