@@ -29,4 +29,6 @@ Project developed using Vanilla JS, CSS, HTML, Git, and VS Code. A social networ
 
 Project developed using the League of Legends champion database. Vanilla JS, CSS, HTML, Git, and VS Code were used. Web design to visualize the champions, organize them, and search for each champion with their statistics.
 
+### Github Stats 🔨:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariana-Sanchez21)](https://github.com/anuraghazra/github-readme-stats)
