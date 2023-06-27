@@ -9,4 +9,12 @@ I'm a Front-end developer with background in environmental engineering. Started 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a potterhead 🔮.I own 2 cats 🐈Kiwi & 🐈Lulo. I love sci-fi🎥 and mystery🎞️, but hate horror 👻.
 
+
+### Some technologies I use:
+
+![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere})
+
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariana-Sanchez21)](https://github.com/anuraghazra/github-readme-stats)
