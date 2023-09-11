@@ -2,8 +2,8 @@
 
 I'm a Front-end developer with background in environmental engineering. Started learning with a bootcamp and fell in love with coding💛. I am passionate about technology👩‍💻 and innovation.
 
-- 🔭 I’m currently working on building a library to be used by other developers.
-- 🌱 I’m currently learning promises and callback functions.
+- 🔭 I’m currently working on an app for a restaurant to take client orders.
+- 🌱 I’m currently learning deploying with Vercel and working with RESTful API.
 - 💬 Ask me about previous projects I've built while i learn JS in Laboratoria!
 - 📫 How to reach me: marysansam21@gmail.com
 - 😄 Pronouns: She/Her
