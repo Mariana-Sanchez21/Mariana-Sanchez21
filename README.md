@@ -17,6 +17,11 @@ I'm a Front-end developer with background in environmental engineering. Started 
 
 ### Projects 🌟:
 
+**BurguerQueen API Client**
+[BurguerQueen API Client](https://dev-006-burger-queen-api-client-frzt.vercel.app/)
+
+Project developed for a Burguer restaurant, using REACT.JS, REST API, promises and callbacks.Waiters can take the clients orders through the app, cooks can mark orders as completed and administrators can add new products and users.
+
 **Markdown links validator**
 
 [Markdown links Validator](https://www.npmjs.com/package/@marianasanchez/md-links/access)
