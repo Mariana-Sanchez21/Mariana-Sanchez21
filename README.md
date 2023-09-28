@@ -17,18 +17,17 @@ I'm a Front-end developer with background in environmental engineering. Started 
 
 ### Projects 🌟:
 
-**BurguerQueen API Client**
-
-[BurguerQueen API Client](https://dev-006-burger-queen-api-client-frzt.vercel.app/)
-
-Project developed for a Burguer restaurant, using REACT.JS, REST API, promises and callbacks.Waiters can take the clients orders through the app, cooks can mark orders as completed and administrators can add new products and users.
-
-
 **DataLovers-LoL**
 
 [DataLovers-LoL](https://mariana-sanchez21.github.io/DEV006-data-lovers/src/)
 
 Project developed using the League of Legends champion database. Vanilla JS, CSS, HTML, Git, and VS Code were used. Web design to visualize the champions, organize them, and search for each champion with their statistics.
+
+**BurguerQueen API Client**
+
+[BurguerQueen API Client](https://dev-006-burger-queen-api-client-frzt.vercel.app/)
+
+Project developed for a Burguer restaurant, using REACT.JS, REST API, promises and callbacks.Waiters can take the clients orders through the app, cooks can mark orders as completed and administrators can add new products and users.
 
 
 **MWUnited**
@@ -38,7 +37,7 @@ Project developed using the League of Legends champion database. Vanilla JS, CSS
 Project developed using Vanilla JS, CSS, HTML, Git, and VS Code. A social network where women can share tips and advice to stay safe on the streets. *Only available in mobile version*
 
 
-**Markdown links validator**
+**Markdown links validator** (BACKEND)
 
 [Markdown links Validator](https://www.npmjs.com/package/@marianasanchez/md-links/access)
 
