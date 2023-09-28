@@ -2,9 +2,9 @@
 
 I'm a Front-end developer with background in environmental engineering. Started learning with a bootcamp and fell in love with coding💛. I am passionate about technology👩‍💻 and innovation.
 
-- 🔭 I’m currently working on an app for a restaurant to take client orders.
-- 🌱 I’m currently learning deploying with Vercel and working with RESTful API.
-- 💬 Ask me about previous projects I've built while i learn JS in Laboratoria!
+- 🔭 I’m currently working on deploying a website with Vercel and working with RESTful API.
+- 🌱 I’m currently learning about Software Architechture.
+- 💬 Ask me about current personal projects !
 - 📫 How to reach me: marysansam21@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a potterhead 🔮.I own 2 cats 🐈Kiwi & 🐈Lulo. I love sci-fi🎥 and mystery🎞️, but hate horror 👻.
