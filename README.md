@@ -23,24 +23,26 @@ I'm a Front-end developer with background in environmental engineering. Started 
 
 Project developed for a Burguer restaurant, using REACT.JS, REST API, promises and callbacks.Waiters can take the clients orders through the app, cooks can mark orders as completed and administrators can add new products and users.
 
-**Markdown links validator**
-
-[Markdown links Validator](https://www.npmjs.com/package/@marianasanchez/md-links/access)
-
-Project Developed on node.js. Library to check status of links within Markdown files.
-
-
-**MWUnited**
-
-[MWUnited](https://socialnetwork10-395ce.web.app/)
-
-Project developed using Vanilla JS, CSS, HTML, Git, and VS Code. A social network where women can share tips and advice to stay safe on the streets. Only available in mobile version.
 
 **DataLovers-LoL**
 
 [DataLovers-LoL](https://mariana-sanchez21.github.io/DEV006-data-lovers/src/)
 
 Project developed using the League of Legends champion database. Vanilla JS, CSS, HTML, Git, and VS Code were used. Web design to visualize the champions, organize them, and search for each champion with their statistics.
+
+
+**MWUnited**
+
+[MWUnited](https://socialnetwork10-395ce.web.app/)
+
+Project developed using Vanilla JS, CSS, HTML, Git, and VS Code. A social network where women can share tips and advice to stay safe on the streets. *Only available in mobile version*
+
+
+**Markdown links validator**
+
+[Markdown links Validator](https://www.npmjs.com/package/@marianasanchez/md-links/access)
+
+Project Developed on node.js. Library to check status of links within Markdown files.
 
 ### Github Stats 🔨:
 
